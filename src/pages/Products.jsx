@@ -14,14 +14,14 @@ export default function Products() {
       name: 'Bell-Bottom Pants',
       tagline: 'Retro vibes with contemporary edge',
       price: '$149',
-      image: '/images/bell_bottom.png',
+      image: 'images/bell_bottom.png',
     },
     {
       id: 3,
       name: 'Bootcut Pants',
       tagline: 'Timeless silhouette for every occasion',
       price: '$139',
-      image: '/images/bootcut.png',
+      image: 'images/bootcut.png',
     },
   ];
 
