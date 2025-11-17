@@ -14,15 +14,17 @@ export default function Products() {
       name: 'Bell-Bottom Pants',
       tagline: 'Retro vibes with contemporary edge',
       price: '$149',
-      image: import.meta.env.BASE_URL + "images/bell_bottom.png",
+      image: '/urban/images/bell_bottom.png',
     },
+
     {
       id: 3,
       name: 'Bootcut Pants',
       tagline: 'Timeless silhouette for every occasion',
       price: '$139',
-      image: import.meta.env.BASE_URL + "images/bootcut.png",
+      image: '/urban/images/bootcut.png',
     },
+    
   ];
 
   const jacketsCollection = [
